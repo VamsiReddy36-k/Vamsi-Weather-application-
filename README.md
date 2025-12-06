@@ -13,7 +13,7 @@ A modern, responsive weather app built using **React + Vite**. It allows users t
 - 🔍 Search weather by **city name**
 - 🌡️ Switch between **°C / °F**
 - ⏳ Real-time API data using **OpenWeatherMap**
-- 🎨 Clean and responsive design (mobile + desktop)
+- 🎨 Clean and responsive design (mobile + desktop
 
 ---
 
