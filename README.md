@@ -4,8 +4,6 @@
 
 A modern, responsive weather app built using **React + Vite**. It allows users to get real-time weather updates by city or by using their current location (geolocation). The app supports temperature unit switching between Celsius and Fahrenheit.
 
-🔗 **Live Demo:**  
-[https://VishweshwarReddyGolla.github.io/weather-app](https://VishweshwarReddyGolla.github.io/weather-app)
 
 ---
 
